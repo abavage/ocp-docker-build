@@ -1,3 +1,3 @@
-FROM centos7:latest
+FROM centos:latest
 
 CMD ["sleep", "infinity"]
