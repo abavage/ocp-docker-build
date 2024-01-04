@@ -37,10 +37,10 @@ objects:
     successfulBuildsHistoryLimit: 5
     triggers:
     - github:
-        secret: JHViNC-XvMycmSZNSbJI
+        secret: <stuff>
       type: GitHub
     - generic:
-        secret: V4cW5RfRJH7dbKEbodyn
+        secret: <stuff>
       type: Generic
     - type: ConfigChange
     - imageChange: {}
